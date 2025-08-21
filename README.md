@@ -1,6 +1,6 @@
 # Placement Preparation
 
-Welcome to the Placement Preparation repository! This repo is designed to help students and professionals prepare for campus placements and technical interviews. It covers essential foundational concepts, data structures, collections, object-oriented programming, and a wide range of common interview problems.
+Welcome to the Placement Preparation repository! This repo is designed to help students for campus placements and technical interviews. It covers essential foundational concepts, data structures, collections, object-oriented programming, and a wide range of common interview problems.
 
 ## Contents
 
