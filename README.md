@@ -22,7 +22,6 @@ Welcome to the Placement Preparation repository! This repo is designed to help s
   - 
 - **Interview Problems**
   - Frequently asked coding problems with solutions
-  - Topic-wise problem sets
   - Company-specific interview questions
 
 ## How to Use
